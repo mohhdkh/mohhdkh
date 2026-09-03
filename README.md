@@ -26,7 +26,7 @@ I build practical web experiences with clean interfaces, reliable backend system
 
 - [EMBER](https://github.com/mohhdkh/empier): responsive Arabic restaurant landing page built with HTML, CSS, JavaScript, and Vite.
 - [GT](https://github.com/mohhdkh/gt): web project built as part of my development work.
-- [Najdah App](https://github.com/mohhdkh/najdah): mobile application project built with Flutter.
+- [Najdah App](https://github.com/mohhdkh/najdah_app): responsive Flutter mobile UI prototype with registration, verification, and password recovery flows.
 - [OTP](https://github.com/mohhdkh/otp): email OTP project.
 - [OTP Server](https://github.com/mohhdkh/otp-server): JavaScript server for OTP workflows.
 
