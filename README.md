@@ -25,6 +25,7 @@ I build practical web experiences with clean interfaces, reliable backend system
 ## Selected projects
 
 - [EMBER](https://github.com/mohhdkh/empier): responsive Arabic restaurant landing page built with HTML, CSS, JavaScript, and Vite.
+- [GT](https://github.com/mohhdkh/gt): web project built as part of my development work.
 - [OTP](https://github.com/mohhdkh/otp): email OTP project.
 - [OTP Server](https://github.com/mohhdkh/otp-server): JavaScript server for OTP workflows.
 
