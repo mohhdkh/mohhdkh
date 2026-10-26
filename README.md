@@ -29,7 +29,7 @@ An Arabic-first, full-stack healthcare operations platform covering the complete
 
 ## Other work
 
-- [AI Lost & Found](https://github.com/mohhdkh/mustardat) — Privacy-focused image matching with FastAPI, CLIP, YOLO and multi-signal similarity search.
+- [AI Lost & Found — Live Demo](https://mustardat.onrender.com/static/login.html) — Privacy-focused image matching with FastAPI, CLIP, YOLO and multi-signal similarity search. Source available to recruiters on request.
 - [EMBER](https://github.com/mohhdkh/empier) — Responsive Arabic RTL restaurant experience built with HTML, CSS, JavaScript and Vite.
 - [OTP Service](https://github.com/mohhdkh/otp) — Email verification and one-time-password workflows.
 - [Portfolio](https://mohhdkh.github.io/Mohammed-portfolio-/) — Selected web and mobile work.
