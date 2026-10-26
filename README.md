@@ -1,39 +1,47 @@
 # Mohammed Khaled
 
-### Full Stack Web Developer | Flutter Developer
+### Full-Stack & Flutter Developer
 
-I build practical web experiences with clean interfaces, reliable backend systems, and a focus on details that make products easier to use.
+I build complete digital products—from responsive interfaces and mobile applications to secure APIs, relational data models, automated tests and cloud deployments.
 
-## About me
+Based in Gaza · Open to remote and relocation opportunities
 
-- Full Stack Web Developer
-- Based in Gaza
-- Working with PHP, Laravel, JavaScript, React.js, and Flutter
-- Interested in responsive interfaces, APIs, authentication, and product-focused web applications
+## What I work with
 
-## Tech stack
+**Frontend:** React, TypeScript, JavaScript, Flutter, HTML, CSS, Tailwind CSS  
+**Backend:** FastAPI, Python, PHP, Laravel, REST APIs  
+**Data & Cloud:** PostgreSQL, Supabase, Redis, Docker, Render, Cloudflare  
+**Quality:** Pytest, Playwright, Vitest, RBAC, MFA, audit logging, encrypted backups
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Featured project
 
-## Selected projects
+### Al Baraka Medical Center Management System
 
-- [EMBER](https://github.com/mohhdkh/empier): responsive Arabic restaurant landing page built with HTML, CSS, JavaScript, and Vite.
-- [GT](https://github.com/mohhdkh/gt): web project built as part of my development work.
-- [Najdah App](https://github.com/mohhdkh/najdah_app): responsive Flutter mobile UI prototype with registration, verification, and password recovery flows.
-- [OTP](https://github.com/mohhdkh/otp): email OTP project.
-- [OTP Server](https://github.com/mohhdkh/otp-server): JavaScript server for OTP workflows.
+An Arabic-first, full-stack healthcare operations platform covering the complete outpatient journey—from reception and doctor queues to consultations, laboratory results, prescriptions, pharmacy dispensing and operational day closing.
+
+- Five role-specific, responsive RTL workspaces
+- FastAPI + React + TypeScript + PostgreSQL
+- Dental EMR, laboratory attachments and centralized voice calling
+- Granular permissions, MFA, audit trails and encrypted backups
+- 44 backend tests, 3 frontend tests and 19 browser end-to-end scenarios
+
+[Open live staging](https://albaraka-staging.onrender.com/) · Synthetic demo data only · Source available to recruiters on request
+
+## Other work
+
+- [Najdah App](https://github.com/mohhdkh/najdah_app) — Flutter mobile interface with authentication and account-recovery flows.
+- [OTP Service](https://github.com/mohhdkh/otp) — Email verification and one-time-password workflows.
+- [Portfolio](https://mohhdkh.github.io/Mohammed-portfolio-/) — Selected web and mobile work.
+
+## Currently focused on
+
+- Designing maintainable full-stack systems around real operational workflows
+- Improving automated browser testing, PostgreSQL concurrency and cloud resilience
+- Building accessible Arabic and English product experiences
 
 ## Contact
 
 - GitHub: [@mohhdkh](https://github.com/mohhdkh)
+- Portfolio: [mohhdkh.github.io/Mohammed-portfolio-](https://mohhdkh.github.io/Mohammed-portfolio-/)
 
----
-
-Always learning, building, and improving one project at a time.
+I am open to junior and mid-level full-stack, backend, frontend and Flutter opportunities.
