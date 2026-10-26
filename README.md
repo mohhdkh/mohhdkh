@@ -29,7 +29,8 @@ An Arabic-first, full-stack healthcare operations platform covering the complete
 
 ## Other work
 
-- [Najdah App](https://github.com/mohhdkh/najdah_app) — Flutter mobile interface with authentication and account-recovery flows.
+- [AI Lost & Found](https://github.com/mohhdkh/mustardat) — Privacy-focused image matching with FastAPI, CLIP, YOLO and multi-signal similarity search.
+- [EMBER](https://github.com/mohhdkh/empier) — Responsive Arabic RTL restaurant experience built with HTML, CSS, JavaScript and Vite.
 - [OTP Service](https://github.com/mohhdkh/otp) — Email verification and one-time-password workflows.
 - [Portfolio](https://mohhdkh.github.io/Mohammed-portfolio-/) — Selected web and mobile work.
 
