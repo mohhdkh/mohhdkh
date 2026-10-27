@@ -13,26 +13,29 @@ Based in Gaza · Open to remote and relocation opportunities
 **Data & Cloud:** PostgreSQL, Supabase, Redis, Docker, Render, Cloudflare  
 **Quality:** Pytest, Playwright, Vitest, RBAC, MFA, audit logging, encrypted backups
 
-## Featured project
+## Featured projects
 
 ### Al Baraka Medical Center Management System
 
-An Arabic-first, full-stack healthcare operations platform covering the complete outpatient journey—from reception and doctor queues to consultations, laboratory results, prescriptions, pharmacy dispensing and operational day closing.
+An Arabic-first healthcare operations platform for reception, doctors, laboratory, pharmacy, administration, queues and daily closing.
 
-- Five role-specific, responsive RTL workspaces
-- FastAPI + React + TypeScript + PostgreSQL
-- Dental EMR, laboratory attachments and centralized voice calling
+- React, TypeScript, FastAPI and PostgreSQL
 - Granular permissions, MFA, audit trails and encrypted backups
-- 44 backend tests, 3 frontend tests and 19 browser end-to-end scenarios
+- Automated backend, frontend and browser end-to-end tests
 
-[Open live staging](https://albaraka-staging.onrender.com/) · Synthetic demo data only · Source available to recruiters on request
+[Open live staging](https://albaraka-staging.onrender.com/) · Synthetic demo data only · Source private
 
-## Other work
+### Mustardat — AI Lost & Found
 
-- [mustardat (AI Lost & Found) — Live Demo](https://mustardat.onrender.com/static/login.html) — Privacy-focused image matching with FastAPI, CLIP, YOLO and multi-signal similarity search. Source available to recruiters on request.
-- [EMBER](https://github.com/mohhdkh/empier) — Responsive Arabic RTL restaurant experience built with HTML, CSS, JavaScript and Vite.
-- [OTP Service](https://github.com/mohhdkh/otp) — Email verification and one-time-password workflows.
-- [Portfolio](https://mohhdkh.github.io/Mohammed-portfolio-/) — Selected web and mobile work.
+A privacy-focused lost-and-found platform using FastAPI and computer vision to help match reports efficiently.
+
+[Open live demo](https://mustardat.onrender.com/static/login.html) · Source private
+
+### Najdah Mobile App
+
+A bilingual Flutter coordination app connecting requesters and donors through role-based workflows, location services, chat, notifications, OTP verification and delivery tracking.
+
+Private project · Demo and source walkthrough available to recruiters on request
 
 ## Currently focused on
 
@@ -43,6 +46,5 @@ An Arabic-first, full-stack healthcare operations platform covering the complete
 ## Contact
 
 - GitHub: [@mohhdkh](https://github.com/mohhdkh)
-- Portfolio: [mohhdkh.github.io/Mohammed-portfolio-](https://mohhdkh.github.io/Mohammed-portfolio-/)
 
 I am open to junior and mid-level full-stack, backend, frontend and Flutter opportunities.
