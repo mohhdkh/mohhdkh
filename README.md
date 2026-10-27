@@ -46,5 +46,6 @@ Private project · Demo and source walkthrough available to recruiters on reques
 ## Contact
 
 - GitHub: [@mohhdkh](https://github.com/mohhdkh)
+- LinkedIn: [Mohammed Khattab](https://www.linkedin.com/in/mohammed-khattab1/)
 
 I am open to junior and mid-level full-stack, backend, frontend and Flutter opportunities.
