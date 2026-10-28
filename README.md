@@ -90,13 +90,47 @@ A privacy-focused lost-and-found platform that combines FastAPI with CLIP, YOLO 
 
 > Source private
 
-### Najdah Mobile App
 
-A bilingual Flutter coordination application connecting requesters and donors through role-based flows, location services, chat, notifications, OTP verification and delivery tracking.
+### Najdah Mobile App — Humanitarian Assistance Platform
 
-- Mobile-first Flutter experience
-- Real-time communication and location-aware workflows
-- Private case study and source walkthrough available to recruiters on request
+A bilingual Flutter mobile application designed to connect people requesting assistance with nearby volunteers and donors through location-aware workflows and real-time communication.
+
+**Key Features**
+- Role-based experiences for requesters and donors
+- Location-based assistance discovery and request matching
+- Assistance request creation and status tracking
+- Real-time chat and notification workflows
+- Arabic-first RTL interface with multilingual support
+- Account authentication and user preferences
+
+**Mobile App Preview**
+
+<p align="center">
+  <img src="assets/najdah/najdah-login.jpg" width="30%" alt="Najdah login screen"/>
+  <img src="assets/najdah/najdah-home.jpg" width="30%" alt="Najdah requester home screen"/>
+  <img src="assets/najdah/najdah-donor.jpg" width="30%" alt="Najdah donor home screen"/>
+</p>
+
+<p align="center">
+  <img src="assets/najdah/najdah-request.jpg" width="30%" alt="Create assistance request"/>
+  <img src="assets/najdah/najdah-notifications.jpg" width="30%" alt="Notifications"/>
+  <img src="assets/najdah/najdah-chats.jpg" width="30%" alt="Chat conversations"/>
+</p>
+
+<p align="center">
+  <img src="assets/najdah/najdah-settings.jpg" width="30%" alt="Application settings"/>
+  <img src="assets/najdah/najdah-about.jpg" width="30%" alt="About Najdah"/>
+</p>
+
+**Engineering Highlights**
+
+- Cross-platform mobile development using Flutter and Dart
+- Reusable UI components and responsive layouts
+- Location-aware assistance workflows
+- Structured request lifecycle and role-specific navigation
+- Arabic RTL design and user-focused mobile experience
+
+> Source code is private. Technical walkthrough available upon request.
 
 ## Verified engineering evidence
 
