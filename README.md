@@ -1,51 +1,98 @@
-# Mohammed Khaled
+<h1 align="center">Mohammed Khaled</h1>
+<h3 align="center">Full-Stack & Flutter Developer</h3>
 
-### Full-Stack & Flutter Developer
+<p align="center">
+  I turn real operational workflows into secure, responsive and testable web and mobile products.
+</p>
 
-I build complete digital products—from responsive interfaces and mobile applications to secure APIs, relational data models, automated tests and cloud deployments.
+<p align="center">
+  <a href="https://github.com/mohhdkh"><img src="https://img.shields.io/badge/GitHub-mohhdkh-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/mohammed-khattab1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"></a>
+</p>
 
-Based in Gaza · Open to remote and relocation opportunities
+---
 
-## What I work with
+## About me
 
-**Frontend:** React, TypeScript, JavaScript, Flutter, HTML, CSS, Tailwind CSS  
-**Backend:** FastAPI, Python, PHP, Laravel, REST APIs  
-**Data & Cloud:** PostgreSQL, Supabase, Redis, Docker, Render, Cloudflare  
-**Quality:** Pytest, Playwright, Vitest, RBAC, MFA, audit logging, encrypted backups
+I build complete products across frontend, backend, data and cloud delivery. My work focuses on maintainable architecture, Arabic-first RTL experiences, granular permissions, automated testing and reliable operational workflows.
 
-## Featured projects
+- Based in Gaza and open to remote or relocation opportunities
+- Comfortable owning a product from requirements and database design through testing and deployment
+- Interested in full-stack, backend, frontend and Flutter roles
+
+## Technology stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+</p>
+
+## Selected work
 
 ### Al Baraka Medical Center Management System
 
-An Arabic-first healthcare operations platform for reception, doctors, laboratory, pharmacy, administration, queues and daily closing.
+An Arabic-first healthcare operations platform covering the outpatient journey from reception and doctor queues through consultations, laboratory results, prescriptions, pharmacy dispensing and operational day closing.
 
-- React, TypeScript, FastAPI and PostgreSQL
-- Granular permissions, MFA, audit trails and encrypted backups
-- Automated backend, frontend and browser end-to-end tests
+- Five responsive, role-specific RTL workspaces
+- React, TypeScript, FastAPI and PostgreSQL architecture
+- Dental EMR, laboratory attachments and centralized voice calling
+- Granular RBAC, MFA, audit trails and encrypted backups
+- 44 backend tests, 3 frontend tests and 19 browser end-to-end scenarios
 
-[Open live staging](https://albaraka-staging.onrender.com/) · Synthetic demo data only · Source private
+[![Open live staging](https://img.shields.io/badge/Open_Live_Staging-0B6E4F?style=for-the-badge&logo=render&logoColor=white)](https://albaraka-staging.onrender.com/)
+
+> Synthetic demonstration data only · Source private
 
 ### Mustardat — AI Lost & Found
 
-A privacy-focused lost-and-found platform using FastAPI and computer vision to help match reports efficiently.
+A privacy-focused lost-and-found platform that combines FastAPI with CLIP, YOLO and multi-signal similarity matching to connect reports efficiently.
 
-[Open live demo](https://mustardat.onrender.com/static/login.html) · Source private
+- Computer-vision-assisted image matching
+- Privacy-aware reporting workflow
+- Responsive browser experience backed by a Python API
+
+[![Open live demo](https://img.shields.io/badge/Open_Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white)](https://mustardat.onrender.com/static/login.html)
+
+> Source private
 
 ### Najdah Mobile App
 
-A bilingual Flutter coordination app connecting requesters and donors through role-based workflows, location services, chat, notifications, OTP verification and delivery tracking.
+A bilingual Flutter coordination application connecting requesters and donors through role-based flows, location services, chat, notifications, OTP verification and delivery tracking.
 
-Private project · Demo and source walkthrough available to recruiters on request
+- Mobile-first Flutter experience
+- Real-time communication and location-aware workflows
+- Private case study and source walkthrough available to recruiters on request
+
+## Engineering approach
+
+| Area | What I prioritize |
+| --- | --- |
+| Product | Real workflows, clear roles and responsive Arabic/English UX |
+| Backend | Explicit domain rules, secure APIs and relational data integrity |
+| Quality | Unit, integration, concurrency and browser end-to-end testing |
+| Security | Least privilege, MFA, auditability and protected secrets |
+| Delivery | CI quality gates, reproducible builds, backups and recovery planning |
 
 ## Currently focused on
 
-- Designing maintainable full-stack systems around real operational workflows
-- Improving automated browser testing, PostgreSQL concurrency and cloud resilience
+- Designing maintainable systems around real operational workflows
+- Improving PostgreSQL concurrency, browser automation and cloud resilience
 - Building accessible Arabic and English product experiences
 
 ## Contact
 
-- GitHub: [@mohhdkh](https://github.com/mohhdkh)
-- LinkedIn: [Mohammed Khattab](https://www.linkedin.com/in/mohammed-khattab1/)
+I am open to full-stack, backend, frontend and Flutter opportunities.
 
-I am open to junior and mid-level full-stack, backend, frontend and Flutter opportunities.
+- [LinkedIn — Mohammed Khattab](https://www.linkedin.com/in/mohammed-khattab1/)
+- [GitHub — @mohhdkh](https://github.com/mohhdkh)
+
+<sub>Project source code is private to protect product IP. Live demonstrations and technical walkthroughs are available for legitimate recruitment conversations.</sub>
