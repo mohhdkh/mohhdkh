@@ -98,6 +98,17 @@ A bilingual Flutter coordination application connecting requesters and donors th
 - Real-time communication and location-aware workflows
 - Private case study and source walkthrough available to recruiters on request
 
+## Verified engineering evidence
+
+| Project | Reproducible evidence | Verified result |
+| --- | --- | --- |
+| Secure TaskFlow | Public authorization PR + PostgreSQL CI | [PR #1](https://github.com/mohhdkh/secure-taskflow/pull/1): 10 backend/API tests, 1 frontend test and production build passed; CI jobs completed in 27s and 16s |
+| Al Baraka Medical Center | Private unit, integration and browser workflow suites | 44 backend tests, 3 frontend tests and 19 browser scenarios passed; production build passed on 26 October 2026 |
+
+Al Baraka's tested browser scenarios cover reception registration, doctor queue and consultation, laboratory referral and result return, grouped prescriptions, pharmacy dispensing, dental EMR, centralized voice calls, responsive role workspaces and operational day closing. Source and detailed reports remain private to protect product IP.
+
+Performance numbers are published only when measured in a named environment; test duration is not presented as production API latency.
+
 ## Engineering approach
 
 | Area | What I prioritize |
