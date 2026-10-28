@@ -105,22 +105,29 @@ A bilingual Flutter mobile application designed to connect people requesting ass
 
 **Mobile App Preview**
 
+
+<details>
+<summary><b>View Najdah App Screenshots (8 screens)</b></summary>
+
 <p align="center">
-  <img src="assets/najdah/najdah-login.jpg" width="30%" alt="Najdah login screen"/>
-  <img src="assets/najdah/najdah-home.jpg" width="30%" alt="Najdah requester home screen"/>
-  <img src="assets/najdah/najdah-donor.jpg" width="30%" alt="Najdah donor home screen"/>
+  <img src="assets/najdah-login.jpg" width="30%">
+  <img src="assets/najdah-requester-home.jpg" width="30%">
+  <img src="assets/najdah-donor-home.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="assets/najdah/najdah-request.jpg" width="30%" alt="Create assistance request"/>
-  <img src="assets/najdah/najdah-notifications.jpg" width="30%" alt="Notifications"/>
-  <img src="assets/najdah/najdah-chats.jpg" width="30%" alt="Chat conversations"/>
+  <img src="assets/najdah-new-request.jpg" width="30%">
+  <img src="assets/najdah-notifications.jpg" width="30%">
+  <img src="assets/najdah-chats.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="assets/najdah/najdah-settings.jpg" width="30%" alt="Application settings"/>
-  <img src="assets/najdah/najdah-about.jpg" width="30%" alt="About Najdah"/>
+  <img src="assets/najdah-settings.jpg" width="30%">
+  <img src="assets/najdah-about.jpg" width="30%">
 </p>
+
+</details>
+
 
 **Engineering Highlights**
 
