@@ -38,6 +38,19 @@ I build complete products across frontend, backend, data and cloud delivery. My 
 
 ## Selected work
 
+### Secure TaskFlow — Public Engineering Sample
+
+A compact, reviewable Arabic RTL full-stack sample created specifically to demonstrate code quality without exposing proprietary project source.
+
+- Public React + TypeScript and FastAPI code
+- Server-enforced authorization with JWT and Argon2
+- PostgreSQL-backed GitHub Actions quality gate
+- Frontend and API tests, Docker and a documented technical case study
+
+[![Review the public code](https://img.shields.io/badge/Review_Public_Code-181717?style=for-the-badge&logo=github)](https://github.com/mohhdkh/secure-taskflow)
+
+<p align="center"><img src="https://raw.githubusercontent.com/mohhdkh/secure-taskflow/main/docs/taskflow-dashboard.png" width="92%" alt="Secure TaskFlow Arabic dashboard"></p>
+
 ### Al Baraka Medical Center Management System
 
 An Arabic-first healthcare operations platform covering the outpatient journey from reception and doctor queues through consultations, laboratory results, prescriptions, pharmacy dispensing and operational day closing.
@@ -51,6 +64,19 @@ An Arabic-first healthcare operations platform covering the outpatient journey f
 [![Open live staging](https://img.shields.io/badge/Open_Live_Staging-0B6E4F?style=for-the-badge&logo=render&logoColor=white)](https://albaraka-staging.onrender.com/)
 
 > Synthetic demonstration data only · Source private
+
+<details>
+<summary><b>Product interface gallery — reception, doctor, laboratory and pharmacy</b></summary>
+<br>
+<p align="center">
+  <img src="assets/albaraka-reception.png" width="49%" alt="Al Baraka reception and queue workspace">
+  <img src="assets/albaraka-doctor.png" width="49%" alt="Al Baraka doctor workspace">
+</p>
+<p align="center">
+  <img src="assets/albaraka-laboratory.png" width="49%" alt="Al Baraka laboratory workspace">
+  <img src="assets/albaraka-pharmacy.png" width="49%" alt="Al Baraka pharmacy workspace">
+</p>
+</details>
 
 ### Mustardat — AI Lost & Found
 
